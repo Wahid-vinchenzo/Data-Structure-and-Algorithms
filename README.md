@@ -1,6 +1,8 @@
+
 # Data Structures and Algorithms
 
 Welcome to my journey through the fascinating world of data structures and algorithms! This repository serves as a collection of my implementations, notes, and practice problems as I delve deeper into this essential field of computer science.
+![dsa](https://github.com/user-attachments/assets/934d9d51-9893-41f0-b024-c08375929957)
 
 **Key Topics:**
 
