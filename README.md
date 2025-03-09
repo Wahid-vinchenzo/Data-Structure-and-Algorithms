@@ -27,9 +27,9 @@ They are the building blocks of efficient and optimized software. Understanding 
 
 **What You'll Find Here:**
 
-* **Implementations:** Code examples of various data structures and algorithms in [programming languages used].
+* **Implementations:** Code examples of various data structures and algorithms.
 * **Notes:** Explanations and insights into the concepts behind each data structure and algorithm.
-* **Practice Problems:** Solutions to coding challenges from platforms like LeetCode, HackerRank, etc.
+* **Practice Problems:** Solutions to coding challenges from platforms like codeforces,LeetCode, HackerRank, etc.
 
 **Used programming language:**
 
