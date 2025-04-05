@@ -12,9 +12,9 @@ https://www.facebook.com/share/p/15Y9QNVEF5/
 
 ✔[Problem:6](https://leetcode.com/problems/longest-common-prefix/submissions/1596279307/?fbclid=IwY2xjawJcVM1leHRuA2FlbQIxMAABHcF5fMClwbxK5Zs6rCu8yiueRvqH1dflL7P02CEMvth01wbyzTxFOWPebQ_aem_5YbGvDZ0odWZAeCs8VZWRw)
 
-✔[problem:7](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?fbclid=IwY2xjawJcVdpleHRuA2FlbQIxMAABHbaS5-dhSk7Skd8m7QRwJmC-K6PV5jzdmAT7oQwPMo9fRA5NlzC5cu-oNA_aem_RCWSj0Qxedbtivnh1CpbnA)
+✔[Problem:7](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?fbclid=IwY2xjawJcVdpleHRuA2FlbQIxMAABHbaS5-dhSk7Skd8m7QRwJmC-K6PV5jzdmAT7oQwPMo9fRA5NlzC5cu-oNA_aem_RCWSj0Qxedbtivnh1CpbnA)
 
-✔[problem:8](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?fbclid=IwY2xjawJcVdpleHRuA2FlbQIxMAABHbaS5-dhSk7Skd8m7QRwJmC-K6PV5jzdmAT7oQwPMo9fRA5NlzC5cu-oNA_aem_RCWSj0Qxedbtivnh1CpbnA)
+✔[Problem:8](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/?fbclid=IwY2xjawJcVdpleHRuA2FlbQIxMAABHbaS5-dhSk7Skd8m7QRwJmC-K6PV5jzdmAT7oQwPMo9fRA5NlzC5cu-oNA_aem_RCWSj0Qxedbtivnh1CpbnA)
 
 ✔[Problem:9](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/?fbclid=IwY2xjawJcV6lleHRuA2FlbQIxMAABHXsr56DBAnhW_wxhzEzhHXNhDMK1rRY-GOY4pPD2MDcTzqXOGkjgP3cNUw_aem_GNp1rpuF-HdLpCnDPM_GOw)
 
@@ -34,9 +34,9 @@ https://www.facebook.com/share/p/15Y9QNVEF5/
 
 ✔[Problem:6](https://leetcode.com/problems/reverse-words-in-a-string/description/?fbclid=IwY2xjawJdfdZleHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
 
-✔[problem:7](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1597072581/?fbclid=IwY2xjawJdfrhleHRuA2FlbQIxMAABHvUHnExHPCter0cAE3wqj7lRApJvIgLnvpdv8EQPLv0NCmC520-v7n0sUm86_aem_7oSYbDHXV1KOGGZgD41Yog)
+✔[Problem:7](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1597072581/?fbclid=IwY2xjawJdfrhleHRuA2FlbQIxMAABHvUHnExHPCter0cAE3wqj7lRApJvIgLnvpdv8EQPLv0NCmC520-v7n0sUm86_aem_7oSYbDHXV1KOGGZgD41Yog)
 
-✔[problem:8](https://leetcode.com/problems/to-lower-case/submissions/1597073844/?fbclid=IwY2xjawJdf4pleHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
+✔[Problem:8](https://leetcode.com/problems/to-lower-case/submissions/1597073844/?fbclid=IwY2xjawJdf4pleHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
 
 ✔[Problem:9](https://leetcode.com/problems/most-common-word/?fbclid=IwY2xjawJdgE9leHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
 
