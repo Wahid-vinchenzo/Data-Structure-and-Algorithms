@@ -11,7 +11,7 @@
 
 ✔[Problem:6](https://leetcode.com/problems/reverse-words-in-a-string/description/?fbclid=IwY2xjawJdfdZleHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
 
-✔[problem:7](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1597072581/?fbclid=IwY2xjawJdfrhleHRuA2FlbQIxMAABHvUHnExHPCter0cAE3wqj7lRApJvIgLnvpdv8EQPLv0NCmC520-v7n0sUm86_aem_7oSYbDHXV1KOGGZgD41Yog)
+✔[Problem:7](https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/1597072581/?fbclid=IwY2xjawJdfrhleHRuA2FlbQIxMAABHvUHnExHPCter0cAE3wqj7lRApJvIgLnvpdv8EQPLv0NCmC520-v7n0sUm86_aem_7oSYbDHXV1KOGGZgD41Yog)
 
 ✔[Problem:8](https://leetcode.com/problems/to-lower-case/submissions/1597073844/?fbclid=IwY2xjawJdf4pleHRuA2FlbQIxMAABHjOJUf5SMsyOA4Z9mqnhqUAxFOFct7T6en_YOm-IOahZLpmINCliINk6f1LL_aem_htdNiDzMfLkVbXt85loBnA)
 
