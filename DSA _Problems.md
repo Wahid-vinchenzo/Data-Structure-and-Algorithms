@@ -43,17 +43,17 @@ https://www.facebook.com/share/p/15Y9QNVEF5/
 ✔[Problem:10](https://leetcode.com/problems/backspace-string-compare/?fbclid=IwY2xjawJdgUFleHRuA2FlbQIxMAABHvGCCdMW7gVNu6SnT282kWd87CNifCxnOmOdZJVDlmS7d0wFnJdDPqxFbC5Z_aem_KAyw2BOTnxJd7nBi6qvfdw)
 
 ## 🎏Stack:
-✔[Problem:1]()
+✔[Problem:1](https://leetcode.com/problems/valid-parentheses/submissions/1598602020/?fbclid=IwY2xjawJfbh9leHRuA2FlbQIxMAABHhN9H31Z6xdRb_WFyZGuIeh6-MVyhihASRbRvXWRdYbFS03ZJPpzYE96EHAd_aem_FuO6QD-X1wvTAwqJX29CFw)
 
-✔[Problem:2]()
+✔[Problem:2](https://leetcode.com/problems/min-stack/submissions/1598604092/?fbclid=IwY2xjawJfbtRleHRuA2FlbQIxMAABHhN9H31Z6xdRb_WFyZGuIeh6-MVyhihASRbRvXWRdYbFS03ZJPpzYE96EHAd_aem_FuO6QD-X1wvTAwqJX29CFw)
 
-✔[Problem:3]()
+✔[Problem:3](https://leetcode.com/problems/implement-stack-using-queues/?fbclid=IwY2xjawJfb1FleHRuA2FlbQIxMAABHhFVTFRTKwRXrarAI7DPaFU_jasPlfp23R-jcuws4xlfepz051FU9rgH-hHX_aem_cd_DotcmwhIaQOtnx876fQ)
 
-✔[Problem:4]()
+✔[Problem:4](https://leetcode.com/problems/daily-temperatures/?fbclid=IwY2xjawJfb_5leHRuA2FlbQIxMAABHhN9H31Z6xdRb_WFyZGuIeh6-MVyhihASRbRvXWRdYbFS03ZJPpzYE96EHAd_aem_FuO6QD-X1wvTAwqJX29CFw)
 
-✔[Problem:5]()
+✔[Problem:5](https://leetcode.com/problems/next-greater-element-i/?fbclid=IwY2xjawJfcHJleHRuA2FlbQIxMAABHrxBPsxs7R_d5zApGHDS_XjkpYxu3_9gE6KUIGTznQKGHDRCWbFT4Afhe3AJ_aem_IEJmKw6YMumUXuklfdxeOQ)
 
-✔[Problem:6]()
+✔[Problem:6](https://leetcode.com/problems/simplify-path/?fbclid=IwY2xjawJfcOlleHRuA2FlbQIxMAABHrxBPsxs7R_d5zApGHDS_XjkpYxu3_9gE6KUIGTznQKGHDRCWbFT4Afhe3AJ_aem_IEJmKw6YMumUXuklfdxeOQ)
 
 ✔[Problem:7]()
 
